@@ -30,14 +30,14 @@ const styles = theme => ({
 			"padding-bottom": theme.spacing.unit * 4
 		},
 		"& .MuiInput-root": {
-			minWidth: "10vw",
+			minWidth: "10vw"
 		}
 	},
 	"filter-cta-container": {
 		"padding-top": theme.spacing.unit,
 		"padding-bottom": theme.spacing.unit,
 		"& > button": {
-			"margin-right": theme.spacing.unit * 4,
+			"margin-right": theme.spacing.unit * 4
 		}
 	}
 });
